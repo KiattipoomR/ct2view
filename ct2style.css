@@ -1,0 +1,319 @@
+@import url("https://fonts.googleapis.com/css?family=Bai+Jamjuree|Noto+Sans+JP|Electrolize|Rajdhani");
+
+body {
+  font-family: "Bai Jamjuree", "Noto Sans JP", sans-serif;
+}
+
+table {
+  font-size: 14px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background: #fafafa;
+}
+
+.page404 {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.easy {
+  background: #003366;
+  color: #33ccff;
+}
+
+.easy.not-ready {
+  background: #00336667;
+  color: #33ccff;
+}
+
+.hard {
+  background: #330000;
+  color: #ff3333;
+}
+
+.hard.not-ready {
+  background: #33000045;
+  color: #ff3333;
+}
+
+.chaos {
+  background: #330033;
+  color: #ff33ff;
+}
+
+.chaos.not-ready {
+  background: #33003345;
+  color: #ff33ff;
+}
+
+.glitch {
+  background: #002e1d;
+  color: #00a96b;
+}
+
+.glitch.not-ready {
+  background: #002e1d45;
+  color: #00a96b;
+}
+
+.crash {
+  background: #452e13;
+  color: #ffc000;
+}
+
+.crash.not-ready {
+  background: #452e1375;
+  color: #ffc000;
+}
+
+.dream {
+  background: #6e6e6e;
+  color: #ffffff;
+}
+
+.dream.not-ready {
+  background: #6e6e6e90;
+  color: #ffffff;
+}
+
+.drop {
+  background: #efefef;
+  color: #6e6e6e;
+}
+
+.drop.not-ready {
+  background: #efefef90;
+  color: #6e6e6e;
+}
+
+.none {
+  background: #000000;
+}
+
+.center {
+  text-align: center;
+}
+
+.difffont {
+  font-family: "Electrolize", "Noto Sans JP", sans-serif;
+}
+
+.paff-text {
+  color: #5bc098;
+}
+
+.paff-bg {
+  background: #5bc098;
+}
+
+.neko-text {
+  color: #c481a2;
+}
+
+.neko-bg {
+  background: #c481a2;
+}
+
+.neko2-text {
+  color: #4fcce0;
+}
+
+.neko2-bg {
+  background: #4fcce0;
+}
+
+.robo-text {
+  color: #84b6bf;
+}
+
+.robo-bg {
+  background: #84b6bf;
+}
+
+.ivy-text {
+  color: #ba1e1e;
+}
+
+.ivy-bg {
+  background: #ba1e1e;
+}
+
+.vanessa-text {
+  color: #9ee0e0;
+}
+
+.vanessa-bg {
+  background: #9ee0e0;
+}
+
+.graffj-text {
+  color: #c79c4e;
+}
+
+.graffj-bg {
+  background: #c79c4e;
+}
+
+.tairitsu-text {
+  color: #5f9ac2;
+}
+
+.tairitsu-bg {
+  background: #5f9ac2;
+}
+
+.amiya-text {
+  color: #5bc8c8;
+}
+
+.amiya-bg {
+  background: #5bc8c8;
+}
+
+.kaf-text {
+  color: #454bdd;
+}
+
+.kaf-bg {
+  background: #454bdd;
+}
+
+.alice-text {
+  color: #66494f;
+}
+
+.alice-bg {
+  background: #66494f;
+}
+
+.hans-text {
+  color: #434343;
+}
+
+.hans-bg {
+  background: #434343;
+}
+
+.ai-text {
+  color: #ff9ebf;
+}
+
+.ai-bg {
+  background: #ff9ebf;
+}
+
+.miku-text {
+  color: #03bace;
+}
+
+.miku-bg {
+  background: #03bace;
+}
+
+.ilka-text {
+  color: #c9c9c9;
+}
+
+.ilka-bg {
+  background: #c9c9c9;
+}
+
+.xenon-text {
+  color: #923434;
+}
+
+.xenon-bg {
+  background: #923434;
+}
+
+.conner-text {
+  color: #cd8145;
+}
+
+.conner-bg {
+  background: #cd8145;
+}
+
+.cherry-text {
+  color: #a1505f;
+}
+
+.cherry-bg {
+  background: #a1505f;
+}
+
+.joe-text {
+  color: #644671;
+}
+
+.joe-bg {
+  background: #644671;
+}
+
+.sagar-text {
+  color: #b78548;
+}
+
+.sagar-bg {
+  background: #b78548;
+}
+
+.rin-text {
+  color: #83ac36;
+}
+
+.rin-bg {
+  background: #83ac36;
+}
+
+.white-text {
+  color: #ffffff;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.chart-button {
+  border-color: #000000;
+  background: #eeeeee;
+}
+
+.chart-button:hover {
+  border-color: #000000;
+  background: #eeeeee;
+}
+
+.disabled {
+  border-color: #000000;
+  background: #eeeeee;
+  color: #6c757d;
+}
+
+.disabled:hover {
+  border-color: #000000;
+  background: #eeeeee;
+  color: #6c757d;
+}
